@@ -49,7 +49,6 @@
 
 /* index.css */
 .login-page, .register-page {
-  /* background: url('https://www.expensya.com/media/3yjeswcf/light-sand-background-4.jpg?rmode=max&width=576&height=0&rnd=133207993865730000') no-repeat center center; */
   background: url('/public/image/bg.png') no-repeat center center;
   background-size: cover;
   min-height: 100vh;
